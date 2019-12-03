@@ -100,7 +100,7 @@ var config = {
   data: {
     labels: [
       "Work",
-      "Happiness",
+      "Optimistic",
       "Health",
       "Finances",
       "Relationships",
