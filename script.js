@@ -32,7 +32,7 @@
       percent = $(this)
         .parent()
         .data("percent");
-      cbar = (100 - percent) / 100 * c;
+      cbar = ((100 - percent) / 100) * c;
       circle.css({
         "stroke-dashoffset": c,
         "stroke-dasharray": c
