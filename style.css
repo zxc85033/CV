@@ -123,6 +123,14 @@ h3 {
   line-height: 25px;
 }
 
+.resume .base .Interests div:hover i {
+  color: #fdd835;
+}
+
+.resume .base .Interests div:hover span {
+  color: #fdd835;
+}
+
 .resume .base .Interests div i {
   color: black;
   width: 20px;
