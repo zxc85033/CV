@@ -564,6 +564,7 @@ h3 {
   margin: 10px 20px;
   display: flex;
   align-items: center;
+  background-color: white;
 }
 
 .photo div img {
